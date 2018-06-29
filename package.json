@@ -1,0 +1,22 @@
+{
+  "name": "node-journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandikapinata/node-journey.git"
+  },
+  "author": "Pandika Pinata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandikapinata/node-journey/issues"
+  },
+  "homepage": "https://github.com/pandikapinata/node-journey#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
